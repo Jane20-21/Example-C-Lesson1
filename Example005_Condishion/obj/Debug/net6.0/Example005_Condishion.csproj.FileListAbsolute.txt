@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\bin\Debug\net6.0\Example005_Condishion.exe
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\bin\Debug\net6.0\Example005_Condishion.deps.json
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\bin\Debug\net6.0\Example005_Condishion.runtimeconfig.json
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\bin\Debug\net6.0\Example005_Condishion.dll
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\bin\Debug\net6.0\Example005_Condishion.pdb
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\obj\Debug\net6.0\Example005_Condishion.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\obj\Debug\net6.0\Example005_Condishion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\obj\Debug\net6.0\Example005_Condishion.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\obj\Debug\net6.0\Example005_Condishion.AssemblyInfo.cs
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\obj\Debug\net6.0\Example005_Condishion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\obj\Debug\net6.0\Example005_Condishion.dll
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\obj\Debug\net6.0\refint\Example005_Condishion.dll
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\obj\Debug\net6.0\Example005_Condishion.pdb
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\obj\Debug\net6.0\Example005_Condishion.genruntimeconfig.cache
+C:\Users\user\Desktop\Example\Examples\Example005_Condishion\obj\Debug\net6.0\ref\Example005_Condishion.dll
