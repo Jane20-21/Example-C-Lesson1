@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\obj\Debug\net6.0\Example008_IntroMetodFc.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\obj\Debug\net6.0\Example008_IntroMetodFc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\obj\Debug\net6.0\Example008_IntroMetodFc.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\obj\Debug\net6.0\Example008_IntroMetodFc.AssemblyInfo.cs
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\obj\Debug\net6.0\Example008_IntroMetodFc.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\bin\Debug\net6.0\Example008_IntroMetodFc.exe
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\bin\Debug\net6.0\Example008_IntroMetodFc.deps.json
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\bin\Debug\net6.0\Example008_IntroMetodFc.runtimeconfig.json
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\bin\Debug\net6.0\Example008_IntroMetodFc.dll
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\bin\Debug\net6.0\Example008_IntroMetodFc.pdb
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\obj\Debug\net6.0\Example008_IntroMetodFc.dll
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\obj\Debug\net6.0\refint\Example008_IntroMetodFc.dll
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\obj\Debug\net6.0\Example008_IntroMetodFc.pdb
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\obj\Debug\net6.0\Example008_IntroMetodFc.genruntimeconfig.cache
+C:\Users\user\Desktop\Example\Examples\Example008_IntroMetodFc\obj\Debug\net6.0\ref\Example008_IntroMetodFc.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\bin\Debug\net6.0\Example010_MetodAr.exe
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\bin\Debug\net6.0\Example010_MetodAr.deps.json
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\bin\Debug\net6.0\Example010_MetodAr.runtimeconfig.json
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\bin\Debug\net6.0\Example010_MetodAr.dll
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\bin\Debug\net6.0\Example010_MetodAr.pdb
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\obj\Debug\net6.0\Example010_MetodAr.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\obj\Debug\net6.0\Example010_MetodAr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\obj\Debug\net6.0\Example010_MetodAr.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\obj\Debug\net6.0\Example010_MetodAr.AssemblyInfo.cs
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\obj\Debug\net6.0\Example010_MetodAr.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\obj\Debug\net6.0\Example010_MetodAr.dll
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\obj\Debug\net6.0\refint\Example010_MetodAr.dll
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\obj\Debug\net6.0\Example010_MetodAr.pdb
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\obj\Debug\net6.0\Example010_MetodAr.genruntimeconfig.cache
+C:\Users\user\Desktop\Example\Examples\Example010_MetodAr\obj\Debug\net6.0\ref\Example010_MetodAr.dll
